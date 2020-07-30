@@ -1,4 +1,4 @@
-# What?Choose
+# Auto Init Laravel Project with command line
 
 This project help people who dont know or not good at init a laravel project and push on your git
 
